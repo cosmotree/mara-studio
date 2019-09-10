@@ -1,13 +1,13 @@
 # Site
 name: 'mara'
 thme: 'mundana-theme-jekyll'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: '마라의 블로그입니다.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mara-studio'
 url: https://cosmotree.github.io
 disqus: 'demowebsite'
-email: 'mmm@gmail.com'
+email: 'cosmotree@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,6 +19,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-admin
 
 authors:
     sal:
@@ -35,6 +36,14 @@ authors:
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
+      twitter:        https://twitter.com/
+
+    mara:
+      name:           마라
+      site:           https://cosmotree.github.io
+      avatar:         /assets/images/avatar.png
+      bio:            "블로그 주인장"
+      email:          cosmotree@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
