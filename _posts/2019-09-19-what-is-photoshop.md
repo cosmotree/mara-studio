@@ -3,7 +3,7 @@ layout: post
 title:  "포토샵이란?"
 author: mara
 categories: [ tutorial, potoshop ]
-image: assets/posts/b-photoshopcc.png
+image: assets/post_img/b-photoshopcc.png
 
 ---
 #### 포토샵이란?
