@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "포토샵이 지원하는 확장자 file format"
+title:  "포토샵 지원 확장자"
 author: mara
 categories: [ tutorial, potoshop, formats ]
 image: assets/post_img/pencils.jpg
-tag : [photoshop,formats]
+tag : [photoshop,file formats]
 ---
 
 포토샵에서 열고 작업할 수 있는 파일 확장자들은 아래와 같습니다. 그래픽 파일 형식은 이미지 데이터 표시방법(픽셀인지 벡터인지), 지원하는 압축 기법, 포토샵 기능 면에서 차이가 있습니다. 포토샵의 기능(레이어,효과,필터,마스크 등)을 유지하려면 이미지복사본을 PSD형식으로 저장합니다. 다양한 프로그램과의 호환을 위해서는 해당 작업상황에 맞게 파일형식을 지정하여 저장해야 합니다.

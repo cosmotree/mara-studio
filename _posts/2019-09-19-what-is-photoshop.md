@@ -2,7 +2,7 @@
 layout: post
 title:  "포토샵이란?"
 author: mara
-categories: [ tutorial, potoshop ]
+categories: [tutorial, potoshop]
 image: assets/post_img/b-photoshopcc.png
 tag : [photoshop,phothshop CC,photoshop Install,포토샵,포토샵 설치]
 ---
