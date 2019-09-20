@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "포토샵 지원 확장자"
+title:  "포토샵 지원 확장자 Photoshop file formats"
 author: mara
 categories: [ tutorial, potoshop, formats ]
 image: assets/post_img/pencils.jpg
@@ -34,13 +34,12 @@ PSD를 저장할 때 파일의 호환성을 최대한 유지하도록 환경을 
 대부분의 파일 형식과 마찬가지로 psd형식으로 저장할 수 있는 파일 크기는 최대 2GB까지 입니다. 파일이 이보다 큰 경우 대용량 문서 형식(PSB), Photoshop Raw(병합된 이미지에만 해당), TIFF(최대 4GB) 또는 DICOM 형식으로 저장합니다.
 이미지에 대한 표준 비트 심도는 채널별 8비트입니다. 16 또는 32비트 이미지를 사용하려면 16비트나 32비트를 지원하는 형식을 사용해야합니다.
 
-	```
 16비트 이미지 형식([다른 이름으로 저장: save as] 명령을 사용해야 함)
 Photoshop, 대용량 문서 형식(PSB), Cineon, DICOM, IFF, JPEG, JPEG 2000, Photoshop PDF, Photoshop Raw, PNG, Portable Bit Map 및 TIFF.
 [웹 및 장치용으로 저장 : save for web, save for web and device] 명령은 16비트 이미지를 8비트 이미지로 자동으로 변환합니다.
 32비트 이미지 형식([다른 이름으로 저장: save as] 명령을 사용해야 함)
 Photoshop, 대용량 문서 형식(PSB), OpenEXR, Portable Bitmap, Radiance 및 TIFF.
-	```
+
 
 #### Photoshop 2.0 형식
 (Mac OS) 이 형식을 사용하면 Photoshop 2.0에서 이미지를 열거나 Photoshop 2.0 파일만 지원하는 응용 프로그램으로 이미지를 내보낼 수 있습니다. Photoshop 2.0 형식으로 저장하면 이미지를 병합하고 레이어 정보를 버릴 수 있습니다.
@@ -71,9 +70,9 @@ EPS(Encapsulated PostScript) 언어 파일 형식에는 벡터와 비트맵 그�
 EPS 형식은 Lab, CMYK, RGB, 인덱스 색상, 이중톤, 회색 음영 및 비트맵 색상 모드를 지원하며 알파 채널은 지원하지 않습니다. 또한 EPS는 클리핑 패스를 지원합니다. 표준 EPS 형식의 하나인 DCS(Desktop Color Separation) 형식을 사용하면 CMYK 이미지의 색상 분판을 저장할 수 있습니다. DCS 2.0 형식을 사용하여 별색 채널이 들어 있는 이미지를 내보낼 수 있습니다. EPS 파일을 인쇄하려면 포스트스크립트 프린터를 사용해야 합니다.
 
 Photoshop에서 EPS TIFF 및 EPS PICT 형식을 사용하면 미리 보기는 만들지만 Photoshop에서 지원하지는 않는 파일 형식(예: QuarkXPress®)으로 저장된 이미지를 열 수 있습니다. 다른 저해상도 파일에서처럼 열린 미리 보기 이미지를 편집 및 사용할 수 있습니다. EPS PICT 미리 보기는 Mac OS에서만 사용할 수 있습니다.
-	```
+
 EPS TIFF 형식 및 EPS PICT 형식은 Photoshop 이전 버전에 더 적합합니다. Photoshop의 현재 버전은 벡터 데이터가 포함된 파일을 열기 위한 래스터화 기능을 제공합니다.
-	```
+
 
 #### Photoshop DCS 1.0 (EPS) / Photoshop DCS 2.0 (EPS)
 DCS(Desktop Color Separations) 형식은 CMYK 이미지의 색상 분판을 저장할 수 있는 표준 EPS 형식입니다. DCS 2.0 형식을 사용하여 별색 채널이 들어 있는 이미지를 보낼 수 있습니다. DCS 파일을 인쇄하려면 포스트스크립트 프린터를 사용해야 합니다.
@@ -108,14 +107,14 @@ PCX 형식은 비트맵, 회색 음영, 인덱스 색상 및 RGB 색상 모드�
 #### Photoshop PDF (PDF, PDP)
 PDF(Portable Document Format)는 여러 플랫폼과 응용 프로그램 간에 사용할 수 있는 유연성이 뛰어난 파일 형식입니다. 포스트스크립트 이미지 모델을 기반으로 PDF 파일은 글꼴, 페이지 레이아웃 및 벡터와 비트맵 그래픽을 정확하게 표시하고 유지합니다. 또한 PDF 파일에는 전자 링크와 같은 전자 문서 검색 및 탐색 기능이 포함될 수 있습니다. PDF는 채널당 16비트 이미지를 지원합니다. Adobe Acrobat에서는 PDF 이미지를 보조 편집하는 데 사용하는 Touch Up 개체 도구를 제공합니다. Touch Up 개체 도구는 이미지나 개체를 최종 단계에서 수정할 때 주로 사용됩니다. PDF로 저장하기 전에 Photoshop에서 이미지 편집을 수행하는 것이 좋습니다. Photoshop은 아래와 같은 두 가지 유형의 PDF 파일을 인식합니다.
 
-	```
+
 Photoshop PDF 파일
 [Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택할 때 만들어집니다. PDF 파일에는 이미지를 하나만 포함할 수 있습니다. Photoshop PDF 형식은 표준 Photoshop 형식에서 지원하는 모든 색상 모드(다중 채널 제외)와 기능을 지원합니다. Photoshop PDF는 또한 CCITT Group 4 압축을 사용하는 비트맵 모드 이미지를 제외하고 JPEG와 ZIP 압축도 지원합니다.
 
 표준 PDF 파일
 [Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택 해제할 때 또는 Adobe Acrobat 또는 Illustrator 등 다른 응용 프로그램을 사용하여 만들어집니다. 표준 PDF 파일은 여러 페이지와 이미지를 포함할 수 있습니다. 표준 PDF 파일을 열면 Photoshop이 픽셀 내용을 유지하면서 벡터 및 텍스트 내용을 래스터화합니다.
 PDF파일은 여러장의 문서를 저장할 수 있는 파일포맷이며 포토샵에서는 이 파일을 페이지마다 PSD파일로 바꿔줄 수 있습니다. 메뉴에서 Automate-Multipage PDF to PSD를 선택하면 됩니다.
-	```
+
 
 #### Photoshop Raw (RAW)
 Photoshop Raw 형식은 여러 응용 프로그램과 여러 컴퓨터 플랫폼 간에 이미지를 전송하기 위해 사용하는 유연성이 뛰어난 파일 형식입니다. 이 형식은 알파 채널이 있는 CMYK, RGB 및 회색 음영 이미지를 지원하며 알파 채널이 없는 다중 채널과 Lab 이미지를 지원합니다. RAW포맷은 본래 다양한 플랫폼의 시스템에서 공통적으로 사용할 수 있도록 개발된 그래픽 파일포맷입니다. Photoshop Raw 형식으로 저장된 문서는 픽셀 크기나 파일 크기에 제한이 없습니다. 하지만 이 문서는 레이어를 포함할 수 없습니다.
@@ -128,9 +127,8 @@ Mac OS에서 파일 유형은 일반적으로 파일을 식별하는 4자의 ID�
 
 인터리브 또는 비인터리브 형식으로 이미지를 저장할 수 있습니다. 삽입을 선택한 경우 색상 값(예: 빨강, 녹색, 파랑)이 순차적으로 저장됩니다. 파일을 열게 되는 응용 프로그램의 요구 사항에 맞게 선택합니다.
 
-	```
 Photoshop Raw 이미지는 디지털 카메라의 Camera Raw 이미지 파일과 동일한 파일 형식이 아닙니다. Camera Raw 이미지 파일은 기본적으로 필터 처리나 흰색 균형 조정 또는 기타 카메라 내부의 어떠한 처리도 거치지 않은 가공하지 않은 상태의 “디지털 네거티브”이며 각 카메라별 전용 형식으로 저장됩니다.
-	```
+
 
 #### 디지털 네거티브 형식 (DNG)
 디지털 네거티브(DNG)는 디지털 카메라의 Raw 이미지 데이터와 이 데이터의 의미를 정의하는 메타데이터를 포함하는 파일 형식입니다. DNG는 현재 각 카메라 모델별로 전용 형식을 사용함으로써 급증하고 있는 Camera Raw 파일 형식 수를 줄이고 각 형식 간의 호환성을 제공하기 위해 Adobe에서 제안한 Camera Raw 파일의 공용 보관 형식입니다. Camera Raw 플러그인은 Camera Raw 이미지 데이터를 DNG 형식으로 저장할 수 있습니다.
@@ -167,10 +165,9 @@ PICT 형식은 맥에서 표준으로 사용되는 파일포맷으로써, Mac OS
 
 PICT 형식은 단일 알파 채널이 있는 RGB 이미지를 지원하며 알파 채널이 없는 인덱스 색상, 회색 음영 및 비트맵 모드 이미지를 지원하며 JPEG압축도 지원하는 파일포맷입니다. Photoshop을 사용하면 래스터 PICT 파일을 열 수는 있지만 QuickDraw PICT를 열거나 PICT 형식으로 저장할 수는 없습니다.
 
-	```
 PICT 리소스
 (Mac OS) PICT 리소스는 PICT 파일이지만 이름과 리소스 ID 번호를 사용합니다. PICT 리소스 형식은 단일 알파 채널이 있는 RGB 이미지를 지원하며 알파 채널이 없는 인덱스 색상, 회색 음영 및 비트맵 모드 이미지를 지원합니다. [불러오기] 명령이나 [열기] 명령을 사용하여 PICT 리소스를 열 수 있습니다. 그러나 Photoshop을 사용하면 이 형식으로 저장할 수 없습니다.
-	```
+
 
 #### Radiance 형식
 Radiance(HDR)는 HDR 이미지에 사용되는 채널당 32비트 파일 형식입니다. 이 형식은 원래 가상 환경에서 빛을 가시화하는 전문 도구인 Radiance 시스템을 위해 개발된 것입니다. 이 파일 형식은 화면에 표시되는 색상 대신 픽셀 당 빛의 양을 저장합니다. Radiance 형식이 수용할 수 있는 광도 레벨은 채널당 8비트 이미지 파일 형식이 수용할 수 있는 256 레벨보다 훨씬 높습니다. Radiance(HDR) 파일은 주로 3D 모델링에서 사용됩니다.
