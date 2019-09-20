@@ -4,9 +4,7 @@ title:  "포토샵이란?"
 author: mara
 categories: [tutorial, potoshop]
 image: assets/post_img/b-photoshopcc.png
-
 ---
-
 어도비 포토샵(Adobe Photoshop)은 어도비(Adobe)사의 레스터 그래픽 편집 프로그램입니다.
 
 포토샵은 전 세계적으로 가장 많이 사용하는 디지털 이미지 프로세싱 프로그램으로, 초창기 간단한 사진수정으로만 사용되던 시대를 지나 Image를 디지털화하여 색상교정, 포토 리터치(photo Re-touch)등의 기능들을 통하여 사용자가 원하는 Image로 자유로이 변형시킬 수 있으며, 강력한 드로잉 기능과 필터효과로 페인팅 툴로서도 다양하게 사용 가능합니다. 또한, 여러가지 강력한 특수효과로 컴퓨터그래픽의 효과를 한 층 높이는 2차원그래픽에서 가장 핵심적인 역할을 하는 프로그램입니다.
