@@ -89,7 +89,7 @@ function loadSearch(){
         results = idx.search($('#searchField').val())
 
         // Empty #content and put a list in for the results
-        $('#content').html('<h1>검색 결과 (' + results.length + ')</h1>')
+        $('#content').html('<h1>Search Results (' + results.length + ')</h1>')
         $('#content').append('<ul id="searchResults"></ul>')
 
         // Loop through results
@@ -117,7 +117,7 @@ $(function() {
   }, 1);
 
   // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-  $('a[href*=\\#]:not([href=\\#])').attr('target','_blank').click(function() {
+  $('a[href*=\\#]:not([href=\\#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       smoothScrollTo($(this.hash));
       return false;
