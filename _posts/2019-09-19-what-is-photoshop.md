@@ -58,8 +58,8 @@ image: assets/post_img/b-photoshopcc.png
 
 #### 포토샵 설치와 무료 기초강의
 
-포토샵은 어도비사가 제공하는 크리에이티브 클라우드 (Creative Cloud : CC) 상품군안에 속하는 애플리케이션입니다. 자세한 상품별 가격 소개와 설치에 관련된 내용, 기초적인 무료 강의는 [어도비 공식 사이트 target='_blank'][어도비 공식 사이트] 에서도 참조하실 수 있습니다. 그 외에도 찾아보면 좋은 유료,무료강의는 정말 많이 있습니다. 어도비 공식강의를 비롯하여 취향에 맞는 강의를 선택하여 즐겁게 공부해보시기 바랍니다.
+포토샵은 어도비사가 제공하는 크리에이티브 클라우드 (Creative Cloud : CC) 상품군안에 속하는 애플리케이션입니다. 자세한 상품별 가격 소개와 설치에 관련된 내용, 기초적인 무료 강의는 어도비 공식 사이트 에서도 참조하실 수 있습니다. 그 외에도 찾아보면 좋은 유료,무료강의는 정말 많이 있습니다. 어도비 공식강의를 비롯하여 취향에 맞는 강의를 선택하여 즐겁게 공부해보시기 바랍니다.
 
-
+어도비 공식 사이트 : <a href='https://www.adobe.com/kr/products/photoshop.html' target='_blank'> 어도비 공식 사이트 </a>
 [어도비 공식 사이트]:https://www.adobe.com/kr/products/photoshop.html
 [자료참고-위키백과]:https://ko.wikipedia.org/wiki/%EC%96%B4%EB%8F%84%EB%B9%84_%ED%8F%AC%ED%86%A0%EC%83%B5
