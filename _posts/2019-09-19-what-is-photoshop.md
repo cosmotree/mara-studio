@@ -13,7 +13,6 @@ image: assets/post_img/b-photoshopcc.png
 
 	```
 	래스터 그래픽스(Raster graphics) 이미지, 곧 비트맵은 일반적으로 직사각형 격자의 화소, 색의 점을 모니터, 종이 등의 매체에 표시하는 자료 구조이다. 래스터 이미지는 다양한 포맷의 그림 파일로 저장할 수 있다.
-  {% endhighlight %}
   ```
 
 #### 포토샵 크리에이티브 클라우드
