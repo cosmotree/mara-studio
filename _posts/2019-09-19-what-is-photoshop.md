@@ -4,7 +4,7 @@ title:  "포토샵이란?"
 author: mara
 categories: [tutorial, potoshop]
 image: assets/post_img/b-photoshopcc.png
-tag : [photoshop,phothshop CC,photoshop Install,포토샵,포토샵 설치]
+
 ---
 
 어도비 포토샵(Adobe Photoshop)은 어도비(Adobe)사의 레스터 그래픽 편집 프로그램입니다.
