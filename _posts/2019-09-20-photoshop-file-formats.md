@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "포토샵 지원 확장자 Photoshop file formats"
+title:  "포토샵 지원 확장자"
 author: mara
 categories: [ tutorial, potoshop, formats ]
 image: assets/post_img/pencils.jpg
