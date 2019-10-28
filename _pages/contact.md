@@ -1,10 +1,10 @@
 ---
-title: "Contact"
+title: "쥔장에게 연락하기 Contact"
 permalink: "/contact.html"
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+<p class="mb-4">문의사항을 아래 양식에 작성해 주시면 {{site.name}}에게 메일이 갑니다. 최대한 빨리 답변드릴게요!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
@@ -14,5 +14,5 @@ permalink: "/contact.html"
 </div>
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
+<input class="btn btn-success" type="submit" value="발송 Send">
 </form>
