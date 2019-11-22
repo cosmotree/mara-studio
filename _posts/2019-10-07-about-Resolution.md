@@ -91,3 +91,5 @@ Photoshop의 이미지(Image) >이미지 크기(Image Size) 대화 상자를 열
 양호 Good : 스크린 선 수의 1.5배 해상도를 재현합니다.
 
 최적 스크린 Best : 선 수의 2배 해상도를 재현합니다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UOX_yNaBcu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
