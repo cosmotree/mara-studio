@@ -3,7 +3,7 @@ layout: post
 title:  "벡터이미지와 패스"
 author: mara
 categories: [ tutorial, potoshop, images, vector, path ]
-image: assets/post_img/vector03.jpg
+image: assets/post_img/vector05.jpg
 tags: [sticky]
 ---
 2차원 이미지를 표현하는 방법으로 래스터 그래픽(Raster graphics)과 벡터 그래픽(Vetor graphics) 2가지가 있습니다. 픽셀(화소 pixels)을 기준으로 이미지가 구성되는 방식을 래스터 그래픽(Raster graphics) 혹은 비트맵 이미지(Bitmap Images)라 하며, 그림을 보여줄 때 수학 방정식을 기반으로 하는 점, 직선, 곡선, 다각형과 같은 물체를 사용하는 방식을 벡터 그래픽(Vetor graphics) 이라고 하는데, 이를 객체 지향 그래픽스라고 부르기도 합니다.
