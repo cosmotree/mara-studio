@@ -25,10 +25,10 @@ authors:
 
       name:           Mara
       site:           https://cosmotree.github.io
-      avatar:         /assets/images/avatar.png
-      bio:            "블로그 주인장"
+      avatar:         'assets/images/avatar.png'
+      bio:            '블로그 주인장'
       email:          cosmotree@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    # twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
 defaults:
