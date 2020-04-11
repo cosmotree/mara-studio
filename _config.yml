@@ -22,11 +22,11 @@ plugins:
   - jekyll-admin
 
 authors:
-
+  mara:
       name:           Mara
       site:           https://cosmotree.github.io
       avatar:         'assets/images/avatar.png'
-      bio:            '블로그 주인장'
+      bio:            '블로그 주인장입니다'
       email:          cosmotree@gmail.com
     # twitter:        https://twitter.com/wowthemesnet
 
