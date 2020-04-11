@@ -205,7 +205,7 @@ a.text-dark:hover {
 .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
-    font-family:"Georgia", "Nanum Myeongjo", "Times New Roman",serif;
+  font-family:"Georgia", "Nanum Myeongjo", "Times New Roman",serif;
 }
 .dropdown-item {
 	font-weight:400;
@@ -652,9 +652,9 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:1rem;
 	line-height:1.86;
-    font-family:Lora;
+  font-family:Lora;
 }
 .article-headline {
     font-family: "Nanum Myeongjo", Georgia,Times,  "Times New Roman",serif;
