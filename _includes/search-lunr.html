@@ -26,42 +26,16 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 
-/*function trimmerEnKo 추가*/
-function trimmerEnKo(token) {
-      return token
-        .replace(/^[^\w가-힣]+/, '')
-        .replace(/[^\w가-힣]+$/, '');
-    };
-
-/** 새코드로 추가
 var idx = lunr(function () {
-    /*this.ref('id')
+    this.ref('id')
     this.field('title')
     this.field('body')
 
     documents.forEach(function (doc) {
-    /*this.add(doc)
+        this.add(doc)
     }, this)
 });
-**/
 
-/** 추가된 새코드**/
-
-var idx = lunr(function () {
-      this.pipeline.reset();
-      this.pipeline.add(
-      trimmerEnKo,
-      lunr.stopWordFilter,
-      lunr.stemmer
-      );
-      this.ref('id')
-      this.field('title', { boost: 10 });
-      this.field('body')
-
-      documents.forEach(function (doc) {
-      this.add(doc)
-      }, this)
-    });
 
 
 function lunr_search(term) {
