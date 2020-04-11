@@ -48,8 +48,8 @@ var idx = lunr(function () {
 /** 추가된 새코드**/
 
 var idx = lunr(function () {
-      this.reset();
-      this.add(
+      this.pipeline.reset();
+      this.pipeline.add(
       trimmerEnKo,
       lunr.stopWordFilter,
       lunr.stemmer
