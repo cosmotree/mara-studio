@@ -2,9 +2,9 @@
 layout: post
 title:  "해상도에 대하여"
 author: mara
-categories: [ potoshop, images, Resolution ]
+categories: [ Resolution ]
 image: assets/post_img/kiwi.jpg
-tags: [featured]
+tags: [featured, potoshop, images]
 ---
 해상도(解像度 : Resolution) 또는 선명도, 화질은 종이나 스크린 등에 표현된 이미지가 표현된 섬세함의 정도를 말합니다. 여기서는 스크린 즉, 화면상의 해상도를 위주로 말씀드리겠습니다.
 
