@@ -28,7 +28,7 @@ tags: [featured, potoshop, images]
 <tr style="background-color:lightgrey;"><th>비트수</th><th>색상수</th><th>구분</th></tr>
 <tbody>
 <tr><td style="padding: 0.5rem;">1bit &#40;2<sup>1</sup>&#41;</td><td>2색상</td><td>흑백</td></tr>
-<tr><td style="padding: 0.5rem;">2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4" style="align="center">팔레트</td></tr>
+<tr><td style="padding: 0.5rem;">2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4" style="align:center">팔레트</td></tr>
 <tr><td style="padding: 0.5rem;">3bit &#40;2<sup>3</sup>&#41;</td><td>8색상</td></tr>
 <tr><td style="padding: 0.5rem;">4bit &#40;2<sup>4</sup>&#41;</td><td>16색상</td></tr>
 <tr><td style="padding: 0.5rem;">8bit &#40;2<sup>8</sup>&#41;</td><td>256색상</td></tr>
