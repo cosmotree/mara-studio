@@ -33,8 +33,7 @@ image: assets/post_img/camera.jpg
 
 2차원(2D : 2 Dimension) 이미지는 일반적으로 표현할 때 2차원 평면 위에 그려진 시각적 표현물을 말합니다. 그 응용분야는 사진을 비롯하여 여러 분야의 각종 시각 디자인 등을 포함한 2차원적 시각 결과물들을 포함합니다.
 <figure>
-<img src='{{ site.baseurl }}/assets/post_img/photoshop-2D.jpg' alt='Photoshop 인터페이스' width='80%' title='Photoshop 인터페이스'>
-<figcaption>Photoshop 인터페이스</figcaption>
+<img src='{{ site.baseurl }}/assets/post_img/photoshop-2D.jpg' alt='Photoshop 인터페이스' width='80%' title='Photoshop 인터페이스'><figcaption>Photoshop 인터페이스</figcaption>
 </figure>
 
 <!--![pixels]({{ site.baseurl }}/assets/post_img/photoshop-2D.jpg)-->
@@ -43,6 +42,5 @@ image: assets/post_img/camera.jpg
 응용분야는 CAD/CAM, 모델링, 렌더링, 애니메이션, 게임, 시물레이션 등이 있습니다.
 3차원을 이용한 동영상은 영상이라고 불리는 경우가 많고, 3차원 이미지는 2차원 이미지로 재출력 하여 사용하는 경우가 아니면 대개 애니메이션 등의 영상 결과물로써 저장되므로 보통 이미지(image)라 통칭하는 경우에는 정지화면을 이미지로 통칭합니다.
 <figure>
-<img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/Blender_2.45_screenshot.jpg' alt='Blender 2.45 screenshot' width='80%' title='Blender 2.45 screenshot form wikipedia.org'>
-<figcaption>Blender 2.45 screenshot form wikipedia.org</figcaption>
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/Blender_2.45_screenshot.jpg' alt='Blender 2.45 screenshot' width='80%' title='Blender 2.45 screenshot form wikipedia.org'><figcaption>Blender 2.45 screenshot form wikipedia.org</figcaption>
 </figure>
