@@ -32,8 +32,12 @@ image: assets/post_img/camera.jpg
 컴퓨터 그래픽을 통해 만들어지는 이미지는 적용기술과 결과물의 양상에 따라 크게 2차원과 3차원 이미지로 구분지어 볼 수 있습니다.
 
 2차원(2D : 2 Dimension) 이미지는 일반적으로 표현할 때 2차원 평면 위에 그려진 시각적 표현물을 말합니다. 그 응용분야는 사진을 비롯하여 여러 분야의 각종 시각 디자인 등을 포함한 2차원적 시각 결과물들을 포함합니다.
+<figure>
+<img src='{{ site.baseurl }}/assets/post_img/photoshop-2D.jpg' alt='Photoshop 인터페이스' width='45%' title='Photoshop 인터페이스'>
+<figcaption>Photoshop 인터페이스</figcaption>
+</figure>
 
-![pixels]({{ site.baseurl }}/assets/post_img/photoshop-2D.jpg)
+<!--![pixels]({{ site.baseurl }}/assets/post_img/photoshop-2D.jpg)-->
 
 3차원(3D : 3 Dimension) 이미지는 넓이, 높이, 깊이를 수치적으로 입력하여 표현하며 그 결과물이 영상이나 2차원 출력물로 표현됩니다.
 응용분야는 CAD/CAM, 모델링, 렌더링, 애니메이션, 게임, 시물레이션 등이 있습니다.
