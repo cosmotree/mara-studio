@@ -24,34 +24,30 @@ tags: [featured, potoshop, images]
 
 예를 들어 색상의 깊이(color depth)에 따라 8비트 이미지, 24비트 이미지 등으로 표현합니다.
 
-<table class="table">
-<tr style="background-color:lightgrey;"><th colspan="2">비트수</th><th>색상수</th><th>구분</th></tr>
+<table style="width:90%" class="table">
+<tr style="background-color:lightgrey;"><th>비트수</th><th>색상수</th><th>구분</th></tr>
 <tbody>
-<tr><td>2<sup>1</sup></td><td>1bit</td><td>2색상</td><td>흑백</td></tr>
-<tr><td>2<sup>2</sup></td><td>2bit</td><td>4색상</td><td rowspan="4">팔레트</td></tr>
-<tr><td>2<sup>3</sup></td><td>3bit</td><td>8색상</td></tr>
-<tr><td>2<sup>4</sup></td><td>4bit</td><td>16색상</td></tr>
-<tr><td>2<sup>8</sup></td><td>8bit</td><td>256색상</td></tr>
-<tr><td>2<sup>16</sup></td><td>16bit</td><td>65,536색상</td><td>하이컬러(R:G:B=5:5:5)</td></tr>
-<tr><td>2<sup>24</sup></td><td>24bit</td><td>16,777,216색상</td><td>트루컬러(R:G:B=8:8:8)</td></tr>
-<tr><td>2<sup>32</sup></td><td>32bit</td><td>16,777,216색상+8비트 알파채널</td><td>트루컬러+알파채널</td></tr>
+<tr><td>1bit &#40;2<sup>1</sup>&#41;</td><td>2색상</td><td>흑백</td></tr>
+<tr><td>2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4">팔레트</td></tr>
+<tr><td>3bit &#40;2<sup>3</sup>&#41;</td><td>8색상</td></tr>
+<tr><td>4bit &#40;2<sup>4</sup>&#41;</td><td>16색상</td></tr>
+<tr><td>8bit &#40;2<sup>8</sup>&#41;</td><td>256색상</td></tr>
+<tr><td>16bit &#40;2<sup>16</sup>&#41;</td><td>65,536색상</td><td>하이컬러(R:G:B=5:5:5)</td></tr>
+<tr><td>24bit &#40;2<sup>24</sup>&#41;</td><td>16,777,216색상</td><td>트루컬러(R:G:B=8:8:8)</td></tr>
+<tr><td>32bit &#40;2<sup>32</sup>&#41;</td><td>16,777,216색상+8비트 알파채널</td><td>트루컬러+알파채널</td></tr>
 </tbody>
 <caption>비트별 색상의 깊이(color depth)</caption>
 </table>
 
 
-
-RGB 이미지는 3개의 색상 채널로 구성됩니다. 픽셀당 8비트를 가지는 RGB 이미지는 각 채널에 대해 256가지의 값을 가질 수 있습니다.
-
-채널당 8비트가 지원되는 RGB 이미지는 24비트 이미지라고도 합니다(8비트 x 3개 채널 = 픽셀당 24비트의 데이터).이는 1,600만 가지 의 색상 값을 가질 수 있음을 의미합니다.
-
+RGB 이미지는 3개의 색상 채널로 구성됩니다. 픽셀당 8비트를 가지는 RGB 이미지는 각 채널에 대해 256가지의 값을 가질 수 있습니다. 채널당 8비트가 지원되는 RGB 이미지는 24비트 이미지라고도 합니다(8비트 x 3개 채널 = 픽셀당 24비트의 데이터).이는 1,600만 가지 의 색상 값을 가질 수 있음을 의미합니다.
 Photoshop에서는 채널당 8비트 이미지 외에도 채널당 16비트 또는 32비트가 포함된 이미지를 사용할 수 있습니다. 채널당 32비트를 지원하는 이미지를 고대비 HDR(High Dynamic Range) 이미지라고도 합니다.
 
 -비트 심도 변환
-채널당 8비트와 채널당 16비트 간에 변환하려면 [이미지] > [모드] > [16비트/채널] (Image > Mode > 16 Bits/Channel ) 또는 [8비트/채널]( 8 Bits/Channel)을 선택합니다.
+채널당 8비트와 채널당 16비트 간에 변환하려면 &#91;이미지&#92; &#62; &#91;모드&#92; &#62; &#91;16비트&#47;채널&#92; &#40;Image &#62; Mode &#62; 16 Bits&#47;Channel&#41; 또는 &#91;8비트/채널&#92; &#40;8 Bits/Channel&#41;을 선택합니다.
 
 
-채널당 8비트 또는 16비트에서 채널당 32비트로 변환하려면 [이미지] > [모드] > [32비트/채널](Image > Mode > 32 Bits/Channel)을 선택합니다.
+채널당 8비트 또는 16비트에서 채널당 32비트로 변환하려면 &#91;이미지&#92; &#62; &#91;모드&#92; &#62; &#91;32비트/채널&#92; &#40;Image &#62; Mode &#62; 32 Bits&#47;Channel&#41;을 선택합니다.
 
 
 #### 화면 해상도
