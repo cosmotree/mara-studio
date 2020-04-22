@@ -24,8 +24,9 @@ tags: [featured, potoshop, images]
 
 예를 들어 색상의 깊이(color depth)에 따라 8비트 이미지, 24비트 이미지 등으로 표현합니다.
 
-<table>
+<table class="table">
 <tr style="background-color:lightgrey;"><th colspan="2">비트수</th><th>색상수</th><th>구분</th></tr>
+<tbody>
 <tr><td>2<sup>1</sup></td><td>1bit</td><td>2색상</td><td>흑백</td></tr>
 <tr><td>2<sup>2</sup></td><td>2bit</td><td>4색상</td><td rowspan="4">팔레트</td></tr>
 <tr><td>2<sup>3</sup></td><td>3bit</td><td>8색상</td></tr>
@@ -34,6 +35,7 @@ tags: [featured, potoshop, images]
 <tr><td>2<sup>16</sup></td><td>16bit</td><td>65,536색상</td><td>하이컬러(R:G:B=5:5:5)</td></tr>
 <tr><td>2<sup>24</sup></td><td>24bit</td><td>16,777,216색상</td><td>트루컬러(R:G:B=8:8:8)</td></tr>
 <tr><td>2<sup>32</sup></td><td>32bit</td><td>16,777,216색상+8비트 알파채널</td><td>트루컬러+알파채널</td></tr>
+</tbody>
 <caption>비트별 색상의 깊이(color depth)</caption>
 </table>
 
