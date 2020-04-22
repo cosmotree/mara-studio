@@ -6,7 +6,9 @@ categories: [ Resolution ]
 image: assets/post_img/kiwi.jpg
 tags: [featured, potoshop, images]
 ---
-해상도(解像度 : Resolution) 또는 선명도, 화질은 종이나 스크린 등에 표현된 이미지가 표현된 섬세함의 정도를 말합니다. 여기서는 스크린 즉, 화면상의 해상도를 위주로 말씀드리겠습니다.
+해상도(解像度 : Resolution) 또는 선명도(鮮明度), 화질(畵質, resolution)은 종이나 스크린 등에 표현된 이미지가 표현된 섬세함의 정도를 말합니다. 주로 모니터, 텔레비전, 또는 프린터, 스캐너 등의 각종 이미지 입출력기기에 관해 말할때 '해상도가 높다', '화질이 좋다' 따위로 쓰입니다. 텔레비전에서의 해상도는 화소라는 단위(CRT에서는 본(line)이라고도 함)를 쓰고 있으며 화면에 흑백 라인이 총 몇개가 표시되는 지를 기준으로 수평x수직 화소(Symbol:px)로 표기합니다.
+
+여기서는 스크린 즉, 화면상의 해상도를 위주로 말씀드리겠습니다.
 
 해상도는 이미지 하나를 나타내는 데 사용되는 기본 단위로서 단위면적 당 픽셀 또는 점의 개수를 해상도라 합니다.널리 쓰이는 단위로는 DPI와 PPI가 있으며, DPI(dots per inch)는 주로 인쇄 출력물에, PPI(pixels per inch)는 화상 출력물에 각각 쓰입니다.
 예를 들어 72 DPI 라고 하면 1인치 안에 1/72 크기의 점이 72개 들어간다는 뜻이고, 300 DPI라고 한다면 같은 1인치 안에 1/300 크기의 점이 300개 들어간다는 뜻입니다.
@@ -28,7 +30,7 @@ tags: [featured, potoshop, images]
 <tr style="background-color:lightgrey;"><th>비트수</th><th>색상수</th><th>구분</th></tr>
 <tbody>
 <tr><td style="padding: 0.5rem;">1bit &#40;2<sup>1</sup>&#41;</td><td>2색상</td><td>흑백</td></tr>
-<tr><td style="padding: 0.5rem;">2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4" style="align:center">팔레트</td></tr>
+<tr><td style="padding: 0.5rem;">2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4" style="text-align:center">팔레트</td></tr>
 <tr><td style="padding: 0.5rem;">3bit &#40;2<sup>3</sup>&#41;</td><td>8색상</td></tr>
 <tr><td style="padding: 0.5rem;">4bit &#40;2<sup>4</sup>&#41;</td><td>16색상</td></tr>
 <tr><td style="padding: 0.5rem;">8bit &#40;2<sup>8</sup>&#41;</td><td>256색상</td></tr>
