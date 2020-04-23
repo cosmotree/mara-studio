@@ -15,7 +15,7 @@ tags: [featured, potoshop, images]
 다시 말해 해상도가 높다는 말은 더 작은 점으로 이루어진 이미지를 구현할 수 있다는 말이고, 그렇게 함으로써 이미지를 더 섬세하고 자연스럽게 구현할 수 있게 됩니다.
 
 화면상의 이미지에서 해상도가 높을수록 픽셀의 갯수가 많아 이미지의 더 세세한 부분까지 표현할 수 있으므로 선명한 화질을 얻으나 그만큼 용량이 커지고 처리하는 속도도 느려집니다. 최종 출력하는 주변 기기에서 이미지가 갖고 있는 해상도를 소화해 낼 수 있는지 여부도 화질에서 중요한 요소입니다.
-또한 원래 이미지의 크기보다 크기를 확대하거나 줄이는 경우, 각 픽셀이 변형이 일어나며 곡선의 경계면이 거칠어지는 현상(계단현상)이 나타납니다. 그래서
+또한 원래 이미지의 크기보다 크기를 확대하거나 줄이는 경우, 각 픽셀이 변형이 일어나며 곡선의 경계면이 거칠어지는 현상(계단현상)이 나타납니다. 
 
 그밖에 화면 디스플레이(모니터), 카메라, 스캐너 등 이미지를 다루는 기기도 각각의 최대 해상도를 가집니다.
 
@@ -29,7 +29,7 @@ tags: [featured, potoshop, images]
 <table style="width:90%;" class="table">
 <tr style="background-color:lightgrey;"><th>비트수</th><th>색상수</th><th>구분</th></tr>
 <tbody>
-<tr><td style="padding: 0.5rem;">1bit &#40;2<sup>1</sup>&#41;</td><td>2색상</td><td>흑백</td></tr>
+<tr><td style="padding: 0.5rem;">1bit &#40;2<sup>1</sup>&#41;</td><td>2색상</td><td style="text-align:center">흑백</td></tr>
 <tr><td style="padding: 0.5rem;">2bit &#40;2<sup>2</sup>&#41;</td><td>4색상</td><td rowspan="4" style="text-align:center">팔레트</td></tr>
 <tr><td style="padding: 0.5rem;">3bit &#40;2<sup>3</sup>&#41;</td><td>8색상</td></tr>
 <tr><td style="padding: 0.5rem;">4bit &#40;2<sup>4</sup>&#41;</td><td>16색상</td></tr>
