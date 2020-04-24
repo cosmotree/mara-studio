@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: jane
+title:  "컴퓨터 그래픽(Computer Graphics)이란?"
+author: mara
 categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-tags: [summer]
+image: assets/images/13.jpg
+tags: [photoshop, images, raster]
 ---
 #### 컴퓨터 그래픽(Computer Graphics)이란?
 컴퓨터 그래픽스(Computer Graphics)란 인간의 창의력과 구상력을 바탕으로 컴퓨터와 각종 소프트웨어 그리고 갖가지 주변기기를 이용하여 인간의 손으로 표현하기 힘든 색, 명암, 조형, 애니메이션, 영상 등과 같은 시각적 결과물을 생성, 조작, 출력할 수 있도록 하는데 관련된 모든 기술을 말합니다.
