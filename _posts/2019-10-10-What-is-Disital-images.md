@@ -4,7 +4,7 @@ title:  "이미지란 무엇일까요?"
 author: mara
 categories: [ images ]
 image: assets/post_img/camera.jpg
-tags: [featured, potoshop, CG]
+tags: [featured, disital Images, images, raster, vetor ]
 
 ---
 이미지란 무엇일까요? 여기서 우리가 다룰 이미지는 파일형태로 존재하고, 컴퓨터에서 프로그램이나 웹사이트를 통해서 사용할 수 있는 그림과 사진, 즉 디지털 이미지(Disital Images)에만 국한 시켜 지칭해 보도록 하겠습니다.

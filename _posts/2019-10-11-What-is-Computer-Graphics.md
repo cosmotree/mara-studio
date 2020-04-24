@@ -2,12 +2,11 @@
 layout: post
 title:  "컴퓨터 그래픽(Computer Graphics)이란?"
 author: mara
-categories: [ Jekyll, tutorial ]
+categories: [ Computer Graphics ]
 image: assets/images/13.jpg
-tags: [photoshop, images, raster]
+tags: [featured, Computer Graphics]
 ---
-#### 컴퓨터 그래픽(Computer Graphics)이란?
-컴퓨터 그래픽스(Computer Graphics)란 인간의 창의력과 구상력을 바탕으로 컴퓨터와 각종 소프트웨어 그리고 갖가지 주변기기를 이용하여 인간의 손으로 표현하기 힘든 색, 명암, 조형, 애니메이션, 영상 등과 같은 시각적 결과물을 생성, 조작, 출력할 수 있도록 하는데 관련된 모든 기술을 말합니다.
+컴퓨터 그래픽스(Computer Graphics)는 인간의 창의력과 구상력을 바탕으로 컴퓨터와 각종 소프트웨어 그리고 갖가지 주변기기를 이용하여 인간의 손으로 표현하기 힘든 색, 명암, 조형, 애니메이션, 영상 등과 같은 시각적 결과물을 생성, 조작, 출력할 수 있도록 하는데 관련된 모든 기술을 말합니다.
 일반적으로는 영화등에서 사용되는 3차원 컴퓨터 그래픽스를 CG(Computer Graphics)로 부르기도 합니다.
 
 컴퓨터 그래픽스는 "수치 정보를 시각화"하여 디지털로 나타내는 논리적 표현 방법입니다.
