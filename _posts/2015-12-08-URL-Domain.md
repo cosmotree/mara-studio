@@ -3,7 +3,7 @@ layout: post
 title:  "URL과 Domain"
 author: Mara
 categories: [ web ]
-tags: web, URL, Domain, 도메인
+tags: [ web, URL, Domain, 도메인 ]
 image: assets/images/11.jpg
 ---
 

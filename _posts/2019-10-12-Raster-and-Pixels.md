@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "래스터 이미지와 픽셀"
-author: mara
-categories: [ rasterimage ]
+author: Mara
+categories: [ about images ]
+tags: [ photoshop, images, rasterimage ]
 image: assets/post_img/glassballs.jpg
-tags: [photoshop, images, raster]
+
 ---
 2차원 이미지를 표현하는 방법으로 래스터 그래픽(Raster graphics)과 벡터 그래픽(Vetor graphics) 2가지가 있습니다.
 여기서 래스터 그래픽(Raster graphics)은 픽셀(화소 pixels)을 기준으로 이미지가 구성되는 방식인데요. 이 픽셀들이 나열하여 한 줄을 이루면 이를 `래스터 (Raster)`라 하므로 픽셀로 구성되는 이미지를 래스터 이미지(Raster Images)라 합니다.

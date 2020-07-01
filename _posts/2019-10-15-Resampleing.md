@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "리샘플링이란?"
-author: mara
-categories: [포토샵, 리샘플링, photoshop, Resampling]
+author: Mara
+categories: [ about images ]
+tags: [ 포토샵, 리샘플링, photoshop, Resampling, images ]
 image: assets/post_img/lights.jpg
 ---
 리샘플링(Resampling)은 이미지의 픽셀 치수나 해상도를 변경할 때 이미지 데이터 양을 변경하는 것입니다.

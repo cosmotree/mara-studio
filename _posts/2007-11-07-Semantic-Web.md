@@ -2,8 +2,8 @@
 layout: post
 title:  "시맨틱 웹이란?"
 author: Mara
-categories: [ Web ]
-tags: web, Semantic Web
+categories: [ web ]
+tags: [ web, Semantic Web ]
 image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
 ---
 ### 시맨틱 웹

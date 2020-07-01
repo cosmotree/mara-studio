@@ -3,8 +3,9 @@ layout: post
 title:  "인터넷과 월드와이드웹"
 author: Mara
 categories: [ web ]
+tags: [ web, internet, world wideweb ]
 image: assets/images/6.jpg
-tags: web, internet, world wideweb
+
 ---
 인터넷(Internet)이란?
 
