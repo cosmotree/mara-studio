@@ -3,7 +3,7 @@ layout: post
 title:  "해상도에 대하여"
 author: Mara
 categories: [ about images ]
-tags: [ 포토샵, featured, potoshop, images ]
+tags: [ 포토샵, Resolution, featured, photoshop, images ]
 image: assets/post_img/kiwi.jpg
 
 ---

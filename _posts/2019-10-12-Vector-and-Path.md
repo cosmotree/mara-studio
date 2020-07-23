@@ -3,7 +3,7 @@ layout: post
 title:  "벡터이미지와 패스"
 author: Mara
 categories: [ about images ]
-tags: [ 포토샵, Photoshop, Illustrator, images, vector, path ]
+tags: [ 포토샵, vector, path, Photoshop, featured, Illustrator, images ]
 image: assets/post_img/vector05.jpg
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "컴퓨터 그래픽(Computer Graphics)이란?"
 author: Mara
 categories: [ about images ]
-tags: [ featured, Computer Graphics ]
+tags: [ featured, Computer Graphics, images ]
 image: assets/images/13.jpg
 
 ---

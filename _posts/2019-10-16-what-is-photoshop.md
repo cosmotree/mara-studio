@@ -2,8 +2,8 @@
 layout: post
 title:  "포토샵이란?"
 author: Mara
-categories: [ Potoshop ]
-tags: [ 포토샵, tutorial, potoshop ]
+categories: [ Photoshop ]
+tags: [ 포토샵, featured, tutorial, photoshop ]
 image: assets/post_img/b-photoshopcc.png
 ---
 어도비 포토샵(Adobe Photoshop)은 어도비(Adobe)사의 레스터 그래픽(Raster graphics) 편집 프로그램입니다.

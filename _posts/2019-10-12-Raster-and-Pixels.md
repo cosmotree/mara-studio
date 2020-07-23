@@ -3,7 +3,7 @@ layout: post
 title:  "래스터 이미지와 픽셀"
 author: Mara
 categories: [ about images ]
-tags: [ photoshop, images, rasterimage ]
+tags: [ photoshop, featured, images, raster image ]
 image: assets/post_img/glassballs.jpg
 
 ---
