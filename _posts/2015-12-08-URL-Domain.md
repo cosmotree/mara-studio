@@ -9,7 +9,8 @@ image: assets/images/11.jpg
 
 URL(Uniform Resource Locator)은 방대한 컴퓨터 네트워크에서 자신이 원하는 정보 자원을 찾기 위해서는 해당 정보 자원의 위치와 종류를 정확히 파악할 필요가 있는데, 이를 나타내는 일련의 규칙을 URL(Uniform Resource Locator: 자원 위치 지정자)이라고 합니다. URL에는 컴퓨터 네트워크 상에 퍼져있는 특정 정보 자원의 종류와 위치가 기록되어 있습니다.
 
-### URL은 흔히 웹 사이트 주소로 알고 있지만, 웹 사이트 주소 뿐만 아니라 컴퓨터 네트워크 상의 자원을 모두 나타낼 수 있습니다. 쉡게 말해 URL은 도메인을 포함하고 있습니다. 그 주소에 접속하려면 해당 URL에 맞는 프로토콜을 알아야 하고, 그와 동일한 프로토콜로 접속해야 합니다.
+### URL(Uniform Resource Locator)
+URL은 흔히 웹 사이트 주소로 알고 있지만, 웹 사이트 주소 뿐만 아니라 컴퓨터 네트워크 상의 자원을 모두 나타낼 수 있습니다. 쉡게 말해 URL은 도메인을 포함하고 있습니다. 그 주소에 접속하려면 해당 URL에 맞는 프로토콜을 알아야 하고, 그와 동일한 프로토콜로 접속해야 합니다.
 
 FTP 프로토콜인 경우에는 FTP 클라이언트를 이용해야 하고, HTTP인 경우에는 웹 브라우저를 이용해야 하며 텔넷의 경우에는 텔넷 프로그램을 이용해서 접속해야 합니다.
 
@@ -19,6 +20,7 @@ URL은 제일 앞에 gopher, telnet, ftp, http, usenet 등 자원(인터넷 주�
 
 + URL구조
 
+<img src="https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fncc.phinf.naver.net%2Fncc02%2F2011%2F4%2F20%2F109%2Fimg_02.jpg%3Ftype%3Dw646%22&type=m10000_10000" alt="URL구조">
 
 
 ​### 도메인 이름(DNS:Domain name system)
