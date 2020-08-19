@@ -4,7 +4,7 @@ title:  "URL과 Domain"
 author: Mara
 categories: [ web ]
 tags: [ web, URL, Domain, 도메인 ]
-image: assets/images/11.jpg
+image: assets/images/10.jpg
 ---
 
 URL(Uniform Resource Locator)은 방대한 컴퓨터 네트워크에서 자신이 원하는 정보 자원을 찾기 위해서는 해당 정보 자원의 위치와 종류를 정확히 파악할 필요가 있는데, 이를 나타내는 일련의 규칙을 URL(Uniform Resource Locator: 자원 위치 지정자)이라고 합니다. URL에는 컴퓨터 네트워크 상에 퍼져있는 특정 정보 자원의 종류와 위치가 기록되어 있습니다.
