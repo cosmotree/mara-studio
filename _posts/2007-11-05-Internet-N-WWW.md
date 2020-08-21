@@ -17,7 +17,7 @@ image: assets/images/19.jpg
 <figure>
 <img src="https://postfiles.pstatic.net/20150115_35/marasyl_1421286179461NapAF_JPEG/internet01.jpg?type=w2" alt="인터넷 맵">
 <figcaption>internet-map 인터넷 맵</figcaption>
-<figure>
+</figure>
 </a>
 
 인터넷에는 모든 서비스를 제공하는 중심이 되는 호스트 컴퓨터도 없고 이를 관리하는 조직도 없습니다. 인터넷을 대표하는 조직으로 ISOC(Internet Society)가 있지만 인터넷망을 총괄 관리하는 기구는 아닙니다. 인터넷을 총괄적으로 관리하는 기관은 없지만 인터넷상의 어떤 컴퓨터 또는 통신망에 이상이 발생하더라도 통신망 전체에는 영향을 주지 않도록 실제의 관리와 접속은 세계 각지에서 분산적으로 행해지고 있습니다.
