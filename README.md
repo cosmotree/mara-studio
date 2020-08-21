@@ -1,51 +1,16 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# 안녕하세요. 마라입니다.
+[naver blog](https://blog.naver.com/marasyl) &nbsp; | &nbsp;
+웹디자이너, 온라인 교육 컨텐츠 제작자, 그래픽 도구(포토샵,일러스트레이터,HTML) 강사로 일했습니다.
+첫번째 Repository에 그래픽 툴 관련 블로그를 올리고 작업 중입니다.
+이 블로그는 Jekyll Theme - Mundana by WowThemes.net 를 사용하였습니다.
+이 블로그는 기존에 운영하던 네이버 블로그와 함께 운영합니다.
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+# Mara is
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
++ Web designer
++ Online educational content creator
++ Graphics Tool instructor
 
-### Documentation
+# Mara Studio blog subject is Computer Graphics Tools
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
-
-### Contribute to Mundana repository
-
-1. In the top-right corner of this page, click **Fork**.
-
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
-
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
-
-3. **Create a branch**: 
-
-   `git checkout -b <my-new-feature-or-fix>`
-
-4. **Make necessary changes and commit those changes**:
-
-   `git add .`
-
-   `git commit -m "new feature or fix"`
-
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
-
-
-### Copyright
-
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
++ Mara Studio blog has Jekyll Theme( Mundana by WowThemes.net ) applied.

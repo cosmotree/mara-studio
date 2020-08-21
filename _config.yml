@@ -36,7 +36,7 @@ defaults:
   # all posts
   - scope:
       path: "_posts"
-    values:
+      values:
       layout: post
       author: mara
       avatar: /assets/images/avatar.png
