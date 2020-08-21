@@ -94,7 +94,7 @@ ARPANET과 별도로 1986년 미국 과학 재단(National Science Foundation)�
 
 월드와이드웹을 위해 사용된 프로그램 중에 세계적으로 대중화된 첫번째 소프트웨어는 1993년 일리노이대학교 재학생 마크 안데르센이 개발한 Mosaic(넷스케이프의 전신)입니다. 이로 인해 인터넷의 상업적 이용이 허용되고, 인터넷을 보다 편리하게 사용할 수 있는 브라우저 등장으로 사용자가 폭발적으로 증가하기 시작했습니다.
 
-[Mosaic Browser]:(http://www.wired.com/2010/04/0422mosaic-web-browser/)
+![Mosaic Browser]:(http://www.wired.com/2010/04/0422mosaic-web-browser/)
 
 1994년에는 대표적 검색서비스인 야후가 등장했고, 그 이듬해에는 미국의 대표적 온라인 통신업체인 컴퓨서브(CompuServe), 아메리카 온라인(America Online), 한때는 마이크로소프트사의 익스플로러와 양대 웹브라우저로 간주되었던 넷스케이프가(Netscape) 출시되어 폭발적인 인기를 끌었습니다.
 
