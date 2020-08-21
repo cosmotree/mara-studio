@@ -10,15 +10,15 @@ tags: [featured]
 포토샵 키보드 단축키는 원하는 기능 메뉴를 찾아들어가 누르지 않고 미리 설정된 단축키를 눌러 원하는 기능을 더 빨리 실행하는 기능입니다.
 키보드 단축키는 사용자가 원하는 키를 조합하여 정의할 수 있습니다. `바로 가기 키` 대화 상자에서 바로 가기 키를 보고, 편집하고, 요약할 수 있습니다. Photoshop에서 이를 보려면, 포토샵 메뉴에서 편집 > 바로 가기 키를 선택하거나 다음의 바로 가기 키를 사용하십시오.
 
-Alt + Shift + Control + K(Windows)
-Alt + Shift + Command + K(macOS)
++ Alt + Shift + Control + K(Windows)
++ Alt + Shift + Command + K(macOS)
 
 최신 MacBook Pro 모델에서 Touch Bar는 키보드 상단에 있는 기능 키를 대체합니다.
 
 아래 내용은 기존에 사용되던 단축키 모음입니다. 더 자세한 내용은 <a href="https://helpx.adobe.com/kr/photoshop/user-guide.html" target="_blank">어도비 포토샵 사용자 안내서</a> 에서 키보드 단축키를 검색하세요.
 
 포토샵 단축키 정리표가 PDF파일로 정리되어 있습니다. 첨부된 파일을 참조해 주세요.
-[단축키 정리표가 PDF파일](https://drive.google.com/file/d/1Y37_2jcmYTqmy6FJjSYUJHy3WIGuTACP/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1Y37_2jcmYTqmy6FJjSYUJHy3WIGuTACP/view?usp=sharing" target="_blank">단축키 정리표 PDF파일</a>
 
 ---------------------
 #### 파일 메뉴
