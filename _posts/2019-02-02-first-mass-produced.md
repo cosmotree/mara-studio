@@ -15,10 +15,10 @@ Alt + Shift + Command + K(macOS)
 
 최신 MacBook Pro 모델에서 Touch Bar는 키보드 상단에 있는 기능 키를 대체합니다.
 
-아래 내용은 기존에 사용되던 단축키 모음입니다. 더 자세한 내용은 `<a href="https://helpx.adobe.com/kr/photoshop/user-guide.html" target="_blank">어도비 포토샵 사용자 안내서</a>` 에서 키보드 단축키를 검색하세요.
+아래 내용은 기존에 사용되던 단축키 모음입니다. 더 자세한 내용은 <a href="https://helpx.adobe.com/kr/photoshop/user-guide.html" target="_blank">어도비 포토샵 사용자 안내서</a> 에서 키보드 단축키를 검색하세요.
 
 포토샵 단축키 정리표가 PDF파일로 정리되어 있습니다. 첨부된 파일을 참조해 주세요.
-[a link](https://drive.google.com/file/d/1Y37_2jcmYTqmy6FJjSYUJHy3WIGuTACP/view?usp=sharing)
+[단축키 정리표가 PDF파일](https://drive.google.com/file/d/1Y37_2jcmYTqmy6FJjSYUJHy3WIGuTACP/view?usp=sharing)
 
 ---------------------
 #### 파일 메뉴
