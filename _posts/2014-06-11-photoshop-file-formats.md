@@ -3,7 +3,7 @@ layout: post
 title:  "포토샵이 지원하는 파일 포맷"
 author: Mara
 categories: [ Photoshop ]
-tags: [ 포토샵, 파일포맷, photoshop, file formats, sticky]
+tags: [ 포토샵, 파일포맷, photoshop, file formats]
 image: assets/post_img/pencils.jpg
 ---
 포토샵에서 열고 작업할 수 있는 파일은 아래와 같습니다. 그래픽 파일 형식은 이미지 데이터 표시방법(픽셀인지 벡터인지), 지원하는 압축 기법, 포토샵 기능 면에서 차이가 있습니다.
