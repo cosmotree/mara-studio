@@ -3,7 +3,7 @@ layout: post
 title:  "포토샵이 지원하는 파일 포맷"
 author: Mara
 categories: [ Photoshop ]
-tags: [ 포토샵, 파일포맷, photoshop, file formats]
+tags: [ 포토샵, 파일포맷, photoshop, formats ]
 image: assets/post_img/pencils.jpg
 ---
 포토샵에서 열고 작업할 수 있는 파일은 아래와 같습니다. 그래픽 파일 형식은 이미지 데이터 표시방법(픽셀인지 벡터인지), 지원하는 압축 기법, 포토샵 기능 면에서 차이가 있습니다.
@@ -20,10 +20,10 @@ PSD를 저장할 때 파일의 호환성을 최대한 유지하도록 환경을 
 
 HDR 채널당 32비트 이미지를 PSD 파일로 저장할 수 있습니다. 대부분의 응용 프로그램과 이전 버전의 Photoshop은 크기가 2GB 이상인 문서를 지원하지 않습니다. 이미지에 대한 표준 비트 심도는 채널별 8비트입니다. 16 또는 32비트 이미지를 사용하려면 16비트나 32비트를 지원하는 형식을 사용해야합니다.
 
-- 16비트 이미지 형식([다른 이름으로 저장: save as] 명령을 사용해야 함)
+- 16비트 이미지 형식([다른 이름으로 저장: save as] 명령을 사용해야 함) &nbsp;&nbsp;
 Photoshop, 대용량 문서 형식(PSB), Cineon, DICOM, IFF, JPEG, JPEG 2000, Photoshop PDF, Photoshop Raw, PNG, Portable Bit Map 및 TIFF.
 [웹 및 장치용으로 저장 : save for web, save for web and device] 명령은 16비트 이미지를 8비트 이미지로 자동으로 변환합니다.
-- 32비트 이미지 형식([다른 이름으로 저장] 명령을 사용해야 함)
+- 32비트 이미지 형식([다른 이름으로 저장] 명령을 사용해야 함) &nbsp;&nbsp;
 Photoshop, 대용량 문서 형식(PSB), OpenEXR, Portable Bitmap, Radiance 및 TIFF.
 
 #### Photoshop 2.0 형식
@@ -53,11 +53,11 @@ Adobe Acrobat에서는 PDF 이미지를 보조 편집하는 데 사용하는 Tou
 
 Photoshop은 두 가지 유형의 PDF 파일을 인식합니다.
 
-- Photoshop PDF 파일
-- - [Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택할 때 만들어집니다. PDF 파일에는 이미지를 하나만 포함할 수 있습니다. Photoshop PDF 형식은 표준 Photoshop 형식에서 지원하는 모든 색상 모드(다중 채널 제외)와 기능을 지원합니다. Photoshop PDF는 또한 CCITT Group 4 압축을 사용하는 비트맵 모드 이미지를 제외하고 JPEG와 ZIP 압축도 지원합니다.
+- Photoshop PDF 파일<br>
+[Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택할 때 만들어집니다. PDF 파일에는 이미지를 하나만 포함할 수 있습니다. Photoshop PDF 형식은 표준 Photoshop 형식에서 지원하는 모든 색상 모드(다중 채널 제외)와 기능을 지원합니다. Photoshop PDF는 또한 CCITT Group 4 압축을 사용하는 비트맵 모드 이미지를 제외하고 JPEG와 ZIP 압축도 지원합니다.
 
-- 표준 PDF 파일
-- - [Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택 해제할 때 또는 Adobe Acrobat 또는 Illustrator 등 다른 응용 프로그램을 사용하여 만들어집니다. 표준 PDF 파일은 여러 페이지와 이미지를 포함할 수 있습니다. 표준 PDF 파일을 열면 Photoshop이 픽셀 내용을 유지하면서 벡터 및 텍스트 내용을 래스터화합니다.
+- 표준 PDF 파일<br>
+[Adobe PDF 저장] 대화 상자에서 [Photoshop 편집 기능 유지]를 선택 해제할 때 또는 Adobe Acrobat 또는 Illustrator 등 다른 응용 프로그램을 사용하여 만들어집니다. 표준 PDF 파일은 여러 페이지와 이미지를 포함할 수 있습니다. 표준 PDF 파일을 열면 Photoshop이 픽셀 내용을 유지하면서 벡터 및 텍스트 내용을 래스터화합니다.
 
 PDF파일은 여러장의 문서를 저장할 수 있는 파일포맷이며 포토샵에서는 이 파일을 페이지마다 PSD파일로 바꿔줄 수 있습니다. 메뉴에서 Automate-Multipage PDF to PSD를 선택하면 됩니다.
 
@@ -134,7 +134,7 @@ PCX 형식은 비트맵, 회색 음영, 인덱스 색상 및 RGB 색상 모드�
 PICT 형식은 단일 알파 채널이 있는 RGB 이미지를 지원하며 알파 채널이 없는 인덱스 색상, 회색 음영 및 비트맵 모드 이미지를 지원하며 JPEG압축도 지원하는 파일포맷입니다. 윈도우 시스템에서는 거의 사용하지 않지만, 매킨토시로 파일을 옮길 때 호환성을 고려한다면 선택할 수 있는 포맷입니다. Photoshop을 사용하면 래스터 PICT 파일을 열 수는 있지만 QuickDraw PICT를 열거나 PICT 형식으로 저장할 수는 없습니다.
 
 - PICT 리소스
-- - (Mac OS) PICT 리소스는 PICT 파일이지만 이름과 리소스 ID 번호를 사용합니다. PICT 리소스 형식은 단일 알파 채널이 있는 RGB 이미지를 지원하며 알파 채널이 없는 인덱스 색상, 회색 음영 및 비트맵 모드 이미지를 지원합니다. [불러오기] 명령이나 [열기] 명령을 사용하여 PICT 리소스를 열 수 있습니다. 그러나 Photoshop을 사용하면 이 형식으로 저장할 수 없습니다.
+(Mac OS) PICT 리소스는 PICT 파일이지만 이름과 리소스 ID 번호를 사용합니다. PICT 리소스 형식은 단일 알파 채널이 있는 RGB 이미지를 지원하며 알파 채널이 없는 인덱스 색상, 회색 음영 및 비트맵 모드 이미지를 지원합니다. [불러오기] 명령이나 [열기] 명령을 사용하여 PICT 리소스를 열 수 있습니다. 그러나 Photoshop을 사용하면 이 형식으로 저장할 수 없습니다.
 
 #### 디지털 네거티브 형식 (DNG)
 디지털 네거티브(DNG)는 디지털 카메라의 Raw 이미지 데이터와 이 데이터의 의미를 정의하는 메타데이터를 포함하는 파일 형식입니다.

@@ -3,9 +3,9 @@ layout: post
 title:  "포토샵 단축키 Photoshop keyboard shortcuts"
 author: Mara
 categories: [ Photoshop ]
-tags: [ Photoshop, shortcuts, 포토샵, 단축키 ]
+tags: [ Photoshop, shortcuts, 포토샵, 단축키, featured ]
 image: assets/images/17.jpg
-tags: [featured]
+
 ---
 포토샵 키보드 단축키는 원하는 기능 메뉴를 찾아들어가 누르지 않고 미리 설정된 단축키를 눌러 원하는 기능을 더 빨리 실행하는 기능입니다.
 키보드 단축키는 사용자가 원하는 키를 조합하여 정의할 수 있습니다. `바로 가기 키` 대화 상자에서 바로 가기 키를 보고, 편집하고, 요약할 수 있습니다. Photoshop에서 이를 보려면, 포토샵 메뉴에서 편집 > 바로 가기 키를 선택하거나 다음의 바로 가기 키를 사용하십시오.
