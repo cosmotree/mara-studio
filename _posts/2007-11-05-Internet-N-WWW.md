@@ -3,7 +3,7 @@ layout: post
 title:  "인터넷과 월드와이드웹"
 author: Mara
 categories: [ web ]
-tags: [ web, internet, world wideweb, 인터넷, 월드와이드웹 ]
+tags: [ web, internet, world wideweb ]
 image: assets/images/19.jpg
 
 ---
