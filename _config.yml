@@ -1,11 +1,10 @@
 # Site
-name: 'mara'
+name: 'Mara'
 thme: 'mundana-theme-jekyll'
-description: '마라의 블로그입니다.'
+description: '마라의 블로그입니다. Mara's blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mara-studio'
-url: https://cosmotree.github.io
 disqus: 'marastudio'
 email: 'cosmotree@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
