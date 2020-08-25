@@ -7,8 +7,6 @@ tags: [ web, HTTP, TCP/IP, FTP, E-mail ]
 image: assets/images/13.jpg
 ---
 
-### HTTP(HyperText Transfer Protocol)
-
 HTTP(HyperText Transfer Protocol)는 WWW상에서 정보를 주고 받을 수 있는 프로토콜로서 주로 HTML문서를 주고 받는데 쓰인다. 인터넷의 개개 사이트의 발견과 정보소통에 필요한 기본자료로서, 하이퍼 언어로 (HTML) 작성되어 있으며, 일반적으로 WWW에서의 서버의 주소로 대칭되기도 한다.
 
 TCP를 사용하며, 80번 포트를 사용한다. 1996년 버전 1.0, 그리고 1999년 1.1이 각각 발표되었으며,
