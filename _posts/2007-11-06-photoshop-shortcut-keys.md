@@ -3,7 +3,7 @@ layout: post
 title:  "포토샵 단축키 Photoshop keyboard shortcuts"
 author: Mara
 categories: [ Photoshop ]
-tags: [ Photoshop, shortcuts, 포토샵, 단축키 ]
+tags: [ Photoshop, shortcuts ]
 image: assets/images/17.jpg
 
 ---
