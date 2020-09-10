@@ -1,7 +1,7 @@
 # Site
 name: 'Mara Sdudio Blog'
 thme: 'mundana-theme-jekyll'
-description: '마라의 블로그입니다. Mara Sdudio Blog'
+description: '마라의 블로그입니다. Mara Studio Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mara-studio'
