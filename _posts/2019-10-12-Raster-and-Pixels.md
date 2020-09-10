@@ -26,8 +26,8 @@ image: assets/post_img/glassballs.jpg
 
 일반적으로 컴퓨터 이미지 툴에서 드로잉(Drawing), 페인팅(Painting)이라고 할때는 비트맵으로 이미지를 새로이 구성하는 작업을 말하며 대표적인 프로그램으로 포토샵, 페인터, 페인트샵 프로 등이 있습니다.
 
-<img src="https://blogfiles.pstatic.net/20140328_184/marasyl_1396010061663QPvNj_JPEG/bitmap01.jpg?type=w2" alt="비트맵 이미지">
-<img src="https://blogfiles.pstatic.net/20140328_295/marasyl_13960100617833bQ0u_JPEG/bitmap02.jpg?type=w2" alt="비트맵 이미지">
+![pixels]({{ site.baseurl }}/assets/post_img/bitmap01.jpg)
+![pixels]({{ site.baseurl }}/assets/post_img/bitmap02.jpg)
 
 #### 픽셀 (화소 : 畵素 pixel)
 픽셀이란 picture와 element 두 단어의 첫 음절을 딴 합성어로서 디지털 이미지의 최소 단위입니다. 이미지는 픽셀의 집합으로 표시되며 비트맵방식으로 저장장치에 기록됩니다.
