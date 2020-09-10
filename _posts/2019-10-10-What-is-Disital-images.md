@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "이미지란 무엇일까요?"
+title:  "디지털 이미지란?"
 author: Mara
 categories: [ about images ]
 tags: [featured, disital Images, images, raster, vetor ]
