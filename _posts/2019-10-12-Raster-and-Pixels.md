@@ -27,13 +27,15 @@ image: assets/post_img/glassballs.jpg
 일반적으로 컴퓨터 이미지 툴에서 드로잉(Drawing), 페인팅(Painting)이라고 할때는 비트맵으로 이미지를 새로이 구성하는 작업을 말하며 대표적인 프로그램으로 포토샵, 페인터, 페인트샵 프로 등이 있습니다.
 
 <img src="https://blogfiles.pstatic.net/20140328_184/marasyl_1396010061663QPvNj_JPEG/bitmap01.jpg?type=w2" alt="비트맵 이미지">
+<img src="https://blogfiles.pstatic.net/20140328_295/marasyl_13960100617833bQ0u_JPEG/bitmap02.jpg?type=w2" alt="비트맵 이미지">
 
 #### 픽셀 (화소 : 畵素 pixel)
 픽셀이란 picture와 element 두 단어의 첫 음절을 딴 합성어로서 디지털 이미지의 최소 단위입니다. 이미지는 픽셀의 집합으로 표시되며 비트맵방식으로 저장장치에 기록됩니다.
 이 이미지를 최대한 확대해 보면 나타나는 작은 빛의 점들이 바로 이미지를 구성하는 픽셀입니다.
 이러한 픽셀의 수가 많으면 많을수록 정밀하고 상세한 재현화면을 구현하며 '해상도가 높다'고 말합니다. 각 픽셀들은 적색(red),녹색(green),청색(blue)의 값을 배합하여 색을 표현하고 픽셀당 비트수에 따라 각 픽셀이 가질 수 있는 색상의 종류를 결정합니다.
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/4/4d/Pixel_geometry_01_Pengo.jpg' alt='Pixel_geometry' width='45%' title='Pixel_geometry'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Pixel_geometry_01_Pengo.jpg" alt='Pixel_geometry' width='45%' title='Pixel_geometry'>
+
 
 #### 픽셀 (pixel)의 기본요소
 
