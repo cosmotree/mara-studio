@@ -1,7 +1,7 @@
 # Site
 name: 'Mara Studio Blog'
 thme: 'mundana-theme-jekyll'
-description: '마라의 블로그입니다. Mara Studio Blog'
+description: '마라 스튜디오 블로그입니다. Mara Studio Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mara-studio'
@@ -25,7 +25,7 @@ authors:
       name:           Mara
       site:           https://cosmotree.github.io
       avatar:         'assets/images/avatar.png'
-      bio:            '블로그 주인장입니다'
+      bio:            '마라입니다'
       email:          cosmotree@gmail.com
     # twitter:        https://twitter.com/wowthemesnet
 

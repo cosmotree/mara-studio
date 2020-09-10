@@ -5,7 +5,7 @@ author: Mara
 categories: [ about images ]
 tags: [ photoshop, featured, images, raster image ]
 image: assets/post_img/glassballs.jpg
-
+tags: [sticky]
 ---
 2차원 이미지를 표현하는 방법으로 래스터 그래픽(Raster graphics)과 벡터 그래픽(Vetor graphics) 2가지가 있습니다.
 여기서 래스터 그래픽(Raster graphics)은 픽셀(화소 pixels)을 기준으로 이미지가 구성되는 방식입니다.
