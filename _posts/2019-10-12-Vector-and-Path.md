@@ -38,11 +38,15 @@ image: assets/post_img/vector05.jpg
 
 
 + 패스의 구성 요소
+
 ![pixels]({{ site.baseurl }}/assets/post_img/vector03.jpg)
+
 A. 선택한 정점 B. 선택한 정점 C. 선택하지 않은 정점 D. 곡선 패스, 선분(세그먼트: Segment) E. 방향선, 접선(Direction Line) F. 방향 점, 핸들(Direction point)   
 
 + 개체 내 패스의 점
+
 ![pixels]({{ site.baseurl }}/assets/post_img/vector04.jpg)
+
 A. 네 개의 모퉁이 점 B. 네 개의 부드러운 점 C. 모퉁이 점과 부드러운 점의 조합
 
 
