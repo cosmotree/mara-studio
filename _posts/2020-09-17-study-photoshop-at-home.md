@@ -4,7 +4,7 @@ title:  "포토샵을 집에서 혼자 배우는 방법"
 author: Mara
 categories: [ Photoshop ]
 tags: [ 포토샵, tutorial, photoshop ]
-image: assets/post_img/photoshopcc-2020.png
+image: assets/post_img/photoshopcc2020-w.PNG
 ---
 포토샵을 배우겠다고 결심하신 분들이 계시다면 어떻게 배워야 할지 고민이 되실겁니다. 이 글은 제 강의를 들으시라는 광고성 글이 절대 아닙니다.
 혼자서 뭔가를 배우는 것은 정말 어려운 일이거든요. 특히 요즘 처럼 다수의 사람이 모이는 공간에 나가기 어려운 시절엔 더욱 그렇죠.
