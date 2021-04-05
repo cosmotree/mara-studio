@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cosmotree.github.io/mara-studio/sitemap.xml
